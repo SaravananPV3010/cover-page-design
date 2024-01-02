@@ -3,7 +3,6 @@
 To develop a website to display the cover page design of a book
 
 ## Design Steps:
-
 ### Step 1:
 Fork your the repository to your repository 
 ### Step 2:
